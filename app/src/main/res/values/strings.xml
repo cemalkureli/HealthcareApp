@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+
+    <string name="bmi_underweight">Zayıf</string>
+    <string name="bmi_normal">Normal</string>
+    <string name="bmi_overweight">Kilolu</string>
+    <string name="bmi_obese">Obez</string>
+    <string name="bmi_value">BMI Değeri: %.2f</string>
+    <string name="bmi_result">Sağlık Durumu: %s</string>
+
+</resources>
